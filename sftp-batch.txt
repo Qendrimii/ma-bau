@@ -1,0 +1,3 @@
+cd /
+put -r dist/*
+bye
